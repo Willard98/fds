@@ -1,5 +1,5 @@
 # fds
-Willard's exercise data
+Coding practice
 
 Avenue to become a future data scientist
 
